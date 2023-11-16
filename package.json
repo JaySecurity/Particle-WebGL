@@ -11,6 +11,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "devDependencies": {
+    "terser-webpack-plugin": "^5.3.9",
     "ts-loader": "^9.5.0",
     "typescript": "^5.2.2",
     "webpack": "^5.89.0",
